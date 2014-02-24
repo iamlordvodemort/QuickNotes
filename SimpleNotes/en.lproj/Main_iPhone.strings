@@ -1,0 +1,66 @@
+
+/* Class = "IBUIButton"; normalTitle = "Log in  with facebook"; ObjectID = "3Sc-pv-Cnp"; */
+"3Sc-pv-Cnp.normalTitle" = "Log in  with facebook";
+
+/* Class = "IBUIButton"; normalTitle = "Sign Up"; ObjectID = "4rp-Su-R5u"; */
+"4rp-Su-R5u.normalTitle" = "Sign Up";
+
+/* Class = "IBUINavigationItem"; title = "Register"; ObjectID = "6cf-4e-9Ih"; */
+"6cf-4e-9Ih.title" = "Register";
+
+/* Class = "IBUIBarButtonItem"; title = "SignOut"; ObjectID = "8Ba-9k-ryu"; */
+"8Ba-9k-ryu.title" = "SignOut";
+
+/* Class = "IBUIBarButtonItem"; title = "View Notes"; ObjectID = "9si-vs-cfx"; */
+"9si-vs-cfx.title" = "View Notes";
+
+/* Class = "IBUITextField"; placeholder = "email"; ObjectID = "APr-dX-KYJ"; */
+"APr-dX-KYJ.placeholder" = "email";
+
+/* Class = "IBUILabel"; text = "/"; ObjectID = "CUD-SL-oWb"; */
+"CUD-SL-oWb.text" = "/";
+
+/* Class = "IBUILabel"; text = "Password:"; ObjectID = "ChW-nf-TPQ"; */
+"ChW-nf-TPQ.text" = "Password:";
+
+/* Class = "IBUINavigationItem"; title = "Record"; ObjectID = "NTr-GA-6vY"; */
+"NTr-GA-6vY.title" = "Record";
+
+/* Class = "IBUITextField"; placeholder = "date"; ObjectID = "OHF-Pg-Cxd"; */
+"OHF-Pg-Cxd.placeholder" = "date";
+
+/* Class = "IBUINavigationItem"; title = "Saved Notes"; ObjectID = "UFg-yj-unm"; */
+"UFg-yj-unm.title" = "Saved Notes";
+
+/* Class = "IBUILabel"; text = "User name:"; ObjectID = "Umb-iv-Zx9"; */
+"Umb-iv-Zx9.text" = "User name:";
+
+/* Class = "IBUITextField"; placeholder = "username"; ObjectID = "a5o-7c-Ccs"; */
+"a5o-7c-Ccs.placeholder" = "username";
+
+/* Class = "IBUINavigationItem"; title = "QuickNote"; ObjectID = "al5-ld-YQA"; */
+"al5-ld-YQA.title" = "QuickNote";
+
+/* Class = "IBUIButton"; normalTitle = "Sign Up"; ObjectID = "diJ-R0-9Jr"; */
+"diJ-R0-9Jr.normalTitle" = "Sign Up";
+
+/* Class = "IBUIButton"; normalTitle = "NEXT >>>"; ObjectID = "j9I-pb-Lrm"; */
+"j9I-pb-Lrm.normalTitle" = "NEXT >>>";
+
+/* Class = "IBUIButton"; normalTitle = "Sign In"; ObjectID = "k1n-RG-XZY"; */
+"k1n-RG-XZY.normalTitle" = "Sign In";
+
+/* Class = "IBUILabel"; text = "Verify:"; ObjectID = "lFr-AG-ieL"; */
+"lFr-AG-ieL.text" = "Verify:";
+
+/* Class = "IBUITextField"; placeholder = "password"; ObjectID = "tBa-Ev-SUg"; */
+"tBa-Ev-SUg.placeholder" = "password";
+
+/* Class = "IBUILabel"; text = "Email:"; ObjectID = "uti-KP-kmZ"; */
+"uti-KP-kmZ.text" = "Email:";
+
+/* Class = "IBUINavigationItem"; title = "Note"; ObjectID = "vom-MM-0gj"; */
+"vom-MM-0gj.title" = "Note";
+
+/* Class = "IBUITextField"; placeholder = "password"; ObjectID = "vvA-al-6cz"; */
+"vvA-al-6cz.placeholder" = "password";
